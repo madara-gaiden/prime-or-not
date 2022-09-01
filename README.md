@@ -1,1 +1,1 @@
-# prime-or-not
+# Prime Or Not
